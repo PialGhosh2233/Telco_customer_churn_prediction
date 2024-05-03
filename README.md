@@ -1,4 +1,3 @@
-﻿# Telco_customer_churn_prediction
 
 ## Predicting Telco Customer Churn with Machine Learning 
 
