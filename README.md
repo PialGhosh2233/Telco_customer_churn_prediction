@@ -26,17 +26,6 @@ This project focuses on the analysis of the [Telco Customer Churn dataset from K
 #### 5. Performance Evaluation
 - **Comparison:** Assess and compare the performance of individual models and ensemble methods, highlighting the effectiveness and improvements achieved through ensembling techniques.
 
-### Usage
-
-To run this project, ensure you have Python and the necessary libraries installed (Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn). You can clone this repository and execute the Jupyter notebook or Python scripts provided.
-
-```bash
-git clone https://github.com/your-repository/telco-customer-churn
-cd telco-customer-churn
-pip install -r requirements.txt
-python churn_analysis.py
-```
-
 ### Results
 
 The project demonstrates that ensemble methods significantly enhance the prediction accuracy over single models. Detailed comparisons of model performances are documented in the Jupyter notebooks with visualizations to support findings.
