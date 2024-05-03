@@ -4,7 +4,7 @@ Here's a GitHub README styled description for the Telco Customer Churn project:
 
 ---
 
-## Predicting Customer Churn with Machine Learning in the Telco Industry
+## Predicting Telco Customer Churn with Machine Learning 
 
 This project focuses on the analysis of the [Telco Customer Churn dataset from Kaggle](https://www.kaggle.com/datasets/blastchar/telco-customer-churn/data) to uncover patterns and predictors of churn. Churn occurs when customers discontinue their services with a company. Our goal is to use machine learning to predict churn and identify key factors that could help the company improve customer retention.
 
